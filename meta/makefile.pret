@@ -4,7 +4,7 @@
 
 `Arrays-Same`
 	:runtime-requirement    [ :on "perl 5.008008"^^:CpanId ];
-	:runtime-recommendation [ :on "Exporter::Shiny 1.000000"^^:CpanId ];
+	:runtime-requirement    [ :on "Exporter::Shiny 1.000000"^^:CpanId ];
 	:test-requirement       [ :on "Test::More 0.96"^^:CpanId ];
 	:develop-recommendation [ :on "Dist::Inkt 0.001"^^:CpanId ];
 	.

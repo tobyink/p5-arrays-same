@@ -4,3 +4,8 @@
 	issued  2019-03-13;
 	label   "Initial release".
 
+`Arrays-Same 0.002 cpan:TOBYINK`
+	issued  2019-03-15;
+	changeset [
+		item "Fix dependdencies."^^Packaging;
+	].
